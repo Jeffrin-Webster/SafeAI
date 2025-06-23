@@ -5,8 +5,8 @@ Get **SafeAI** up and running in minutes to detect harmful AI behaviors like bla
 ```bash
 # 1. Clone or Download the SafeAI Project
 # 📂 Grab the project folder from GitHub or unzip the shared archive
-git clone https://github.com/Jeffrin-Webster/SafeAI_JeffrinWebster.git
-cd SafeAI_JeffrinWebster
+git clone https://github.com/Jeffrin-Webster/SafeAI.git
+cd SafeAI
 
 # 2. Set Up a Virtual Environment (Recommended)
 # 🛠️ Isolate dependencies for a clean setup
